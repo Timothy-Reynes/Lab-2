@@ -1,5 +1,0 @@
-drive
-think
-serve
-stop
-stretch
